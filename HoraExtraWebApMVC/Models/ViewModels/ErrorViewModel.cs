@@ -1,7 +1,7 @@
 using System;
 
-namespace HoraExtraWebApMVC.Models
-{
+namespace HoraExtraWebApMVC.Models.ViewModels
+{ 
     public class ErrorViewModel
     {
         public string RequestId { get; set; }
